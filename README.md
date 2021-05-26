@@ -1,3 +1,14 @@
 # Understanding-Crypto
 
-This folder has several sub-folders: Understanding Bitcoin, Understanding Ethereum, etc.
+#Video and Resource Links
+
+Understanding Bitcoin 
+Resources
+
+
+Videos by Others
+
+Videos by Me
+
+
+Understanding Ethereum
