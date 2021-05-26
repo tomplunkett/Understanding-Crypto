@@ -4,6 +4,10 @@ My list of recommended cryptography, blockchain, bitcoin, ethereum, etc. links f
 
 Bitcoin White Paper: https://bitcoin.org/en/bitcoin-paper
 
+Ethereum White Paper https://ethereum.org/en/whitepaper/
+
+Ethereum Yellow Paper https://ethereum.github.io/yellowpaper/paper.pdf
+
 Mastering Bitcoin Github site: https://github.com/bitcoinbook/bitcoinbook
 
 Mastering Ethereum Github https://github.com/ethereumbook/ethereumbook
