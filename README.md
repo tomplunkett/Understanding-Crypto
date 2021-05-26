@@ -6,6 +6,10 @@ Bitcoin White Paper: https://bitcoin.org/en/bitcoin-paper
 
 Mastering Bitcoin Github site: https://github.com/bitcoinbook/bitcoinbook
 
+Mastering Ethereum Github https://github.com/ethereumbook/ethereumbook
+
+Mastering the Lightning Network Github https://github.com/lnbook/lnbook
+
 NFT Virtual Summit: https://a16z.com/2021/05/18/nft-virtual-summit-by-a16z-and-stanford-the-videos/
 
 Crypto Startup School: https://a16z.com/crypto-startup-school/
