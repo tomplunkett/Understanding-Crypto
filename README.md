@@ -1,6 +1,6 @@
 # Understanding-Crypto
 
-#Video and Resource Links
+Video and Resource Links
 
 Understanding Bitcoin 
 Resources
