@@ -19,6 +19,8 @@ NFT Virtual Summit: https://a16z.com/2021/05/18/nft-virtual-summit-by-a16z-and-s
 Crypto Startup School: https://a16z.com/crypto-startup-school/
 
 
+My Videos
+
 
 Understanding the Bitcoin White Paper https://www.youtube.com/watch?v=_GemXR8rtZI&t=2s
 
