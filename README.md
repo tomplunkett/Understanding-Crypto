@@ -14,6 +14,8 @@ Mastering Ethereum Github https://github.com/ethereumbook/ethereumbook
 
 Mastering the Lightning Network Github https://github.com/lnbook/lnbook
 
+Jimmy Song's Programming Bitcoin Github https://github.com/jimmysong/programmingbitcoin
+
 NFT Virtual Summit: https://a16z.com/2021/05/18/nft-virtual-summit-by-a16z-and-stanford-the-videos/
 
 Crypto Startup School: https://a16z.com/crypto-startup-school/
