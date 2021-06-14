@@ -5,7 +5,7 @@ Bitcoin resources and links, see https://github.com/tomplunkett/Understanding-Bi
 
 Blockchain Hackathon information, see https://github.com/tomplunkett/Understanding-Blockchain-Hackathons
 
-Understanding Crypto Startups https://github.com/tomplunkett/Understanding-Crypto-Startups/blob/main/README.md
+Understanding Crypto Startups https://github.com/tomplunkett/Understanding-Crypto-Startups
 
 
 Ethereum White Paper https://ethereum.org/en/whitepaper/
