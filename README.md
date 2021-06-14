@@ -3,6 +3,8 @@ My list of recommended cryptography, blockchain, ethereum, etc. links for someon
 
 Bitcoin resources and links, see https://github.com/tomplunkett/Understanding-Bitcoin/
 
+Ethereum resources and links
+
 Blockchain Hackathon information, see https://github.com/tomplunkett/Understanding-Blockchain-Hackathons
 
 Understanding Crypto Startups https://github.com/tomplunkett/Understanding-Crypto-Startups
